@@ -1,0 +1,8 @@
+youtube-transcript-api
+transformers
+torch
+keybert
+sentence-transformers
+gradio
+scikit-learn
+sentencepiece
